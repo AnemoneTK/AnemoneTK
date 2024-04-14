@@ -12,9 +12,8 @@ Student | Computer Science and Software Development Innovation
                     </p>
                     
                   ### Socials
-                  
-                  
-                <p align="left">
+
+ <p align="left">
                       <a href="https://www.facebook.com/profile.php?id=100066472864420" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
